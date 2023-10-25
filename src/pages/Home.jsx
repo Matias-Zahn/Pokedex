@@ -41,8 +41,8 @@ function Home() {
       </div>
       <footer className="relative h-[20%] flex flex-col justify-end">
         <div className="bg-[#DD1A1A]  h-32"></div>
-        <div className="bg-black h-10 grid place-items-center relative">
-          <div className="absolute right-1/2 top-0 -translate-y-3/4  translate-x-1/2 grid place-items-center ">
+        <div className="bg-black h-14 grid place-content-center relative">
+          <div className="absolute right-1/2 top-0 -translate-y-2/4  translate-x-1/2 grid place-items-center ">
             <img className="" src="/pokeballHeader1.png" alt="" />
             <div className="absolute">
               <img className="" src="/pokeballHeader2.png" alt="" />
